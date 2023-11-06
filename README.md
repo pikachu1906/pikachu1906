@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pikachu1906
-- 👀 I’m interested in Machine Learning , Deep Learning , AI , OpenCV ,Data Analysis projects
+- 👀 I’m interested in Machine Learning , Deep Learning , AI ,Data Analysis projects
 - 🌱 I’m currently a Graduate Student at Indiana University Bloomington for MS in Data Science
 - 💞️ I’m looking to collaborate on projects in Data analytics , ML , DL , AI affiliated fields
 - 📫 How to reach me rohitdhonukshe19@gmail.com
