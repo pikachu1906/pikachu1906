@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pikachu1906
+- 👋 Hi, I’m Rohit
 - 👀 I’m interested in Machine Learning , Deep Learning , AI ,Data Analysis projects
 - 🌱 I’m currently a Graduate Student at Indiana University Bloomington for MS in Data Science
 - 💞️ I’m looking to collaborate on projects in Data analytics , ML , DL , AI affiliated fields
